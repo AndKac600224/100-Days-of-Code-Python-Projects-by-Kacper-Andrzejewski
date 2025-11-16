@@ -3,13 +3,13 @@
 A simple Snake game implemented in Python, demonstrating object-oriented programming, game logic, and basic file handling.
 
 ## Project Structure
-SnakeGame/
-├── main.py # Main game loop
-├── snake.py # Snake class, movement and growth
-├── food.py # Food class for generating food positions
-├── scoreboard.py # Scoreboard class for tracking and displaying score
-├── data.txt # File to save high score
-└── README.md # This file
+SnakeGame  
+├── main.py # Main game loop  
+├── snake.py # Snake class, movement and growth  
+├── food.py # Food class for generating food positions  
+├── scoreboard.py # Scoreboard class for tracking and displaying score  
+├── data.txt # File to save high score  
+└── README.md # This file  
 
 ## How to Play?
 
