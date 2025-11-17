@@ -2,17 +2,15 @@
 import requests
 import smtplib
 
-
 STOCK_NAME = "TSLA"
 COMPANY_NAME = "Tesla Inc"
 
 STOCK_ENDPOINT = "https://www.alphavantage.co/query"
 NEWS_ENDPOINT = "https://newsapi.org/v2/everything"
 
-API_STOCK = "CIO6JOH3NUNNOXAF"
-API_NEWS = "0ecea7d819bc4330a9af8adcfc74a664"
+API_STOCK = "XXXXXXXXXXXX" # <-- this is personal
+API_NEWS = "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX" # <-- this is personal
 
-import smtplib
 
 MY_EMAIL = "your_email@gmail.com"
 EMAIL_PASSWORD = "APP_PASSWORD"
